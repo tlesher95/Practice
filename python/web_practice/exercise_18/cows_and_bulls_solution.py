@@ -25,7 +25,8 @@ def ultimate(test):
     return smash(number)
 
 number = []
-#print(f"Random number is: {ultimate(number)}")
+# print(f"Random number is: {ultimate(number)}")
+ultimate(number)
 cows = 0
 tries = 0
 cowsuffix = "s"
